@@ -62,8 +62,8 @@ img{
     float: right;
 }
 
-.slider-controls .prev.disabled,
-.slider-controls .next.disabled {
+.slider-controls .disabled,
+.slider-controls .disabled{
     background-color: rgba(0, 150, 136, 0.5);
     cursor: no-drop;
 }
